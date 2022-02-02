@@ -19,6 +19,16 @@ public class Login { // class
 
 	}
 
+	private void a1() {
+		System.out.println("method a1");
+
+	}
+
+	private void a2() {
+		System.out.println("method a2");
+
+	}
+
 	private void b1() {
 		System.out.println("method b1");
 
@@ -26,7 +36,6 @@ public class Login { // class
 
 	private void b2() {
 		System.out.println("method b2");
-
 	}
 
 	public static void main(String[] args) { // main method
